@@ -14,7 +14,7 @@ class Game extends StatelessWidget{
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Text("Hello motherf*kers!"),
+            Text("There should be a game here"),
           ],
         ),
       ),
